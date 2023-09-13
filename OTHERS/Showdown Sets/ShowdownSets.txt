@@ -1,5 +1,4 @@
-[SV]
-
+[sv]
 Drifblim @ Spell Tag
 Ability: Aftermath
 Shiny: Yes
@@ -16,9 +15,7 @@ IVs: 0 Atk
 - Strength Sap
 - Air Slash
 
-
-[SWSH]
-
+[swsh]
 Dragapult @ Choice Band
 Ability: Infiltrator
 Jolly Nature
