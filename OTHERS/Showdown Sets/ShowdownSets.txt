@@ -1,0 +1,100 @@
+[SV]
+
+Drifblim @ Spell Tag
+Ability: Aftermath
+Shiny: Yes
+Ball: Luxury
+.Scale=255
+.RibbonMarkUncommon=true
+.Ribbons=$suggestAll
+Tera Type: Fairy
+EVs: 252 HP / 252 Def / 4 SpD
+Bold Nature
+IVs: 0 Atk
+- Hex
+- Will-O-Wisp
+- Strength Sap
+- Air Slash
+
+
+[SWSH]
+
+Dragapult @ Choice Band
+Ability: Infiltrator
+Jolly Nature
+IVs: 31/31/31/31/31/31
+EVs: 252 Atk / 252 Spe / 4 HP
+- Dragon Darts
+- Phantom Force
+- U-turn
+- Steel Wing
+
+Cinderace @ Life Orb
+Ability: Libero
+Jolly Nature
+IVs: 31/31/31/31/31/31
+EVs: 252 Atk / 252 Spe / 4 HP
+- Pyro Ball
+- Gunk Shot
+- U-turn
+- High Jump Kick
+
+Toxapex @ Black Sludge
+Ability: Regenerator
+Bold Nature
+IVs: 31/31/31/31/31/31
+EVs: 252 HP / 252 Def / 4 SpD
+- Scald
+- Recover
+- Haze
+- Toxic
+
+Excadrill @ Focus Sash
+Ability: Mold Breaker
+Jolly Nature
+IVs: 31/31/31/31/31/31
+EVs: 252 Atk / 252 Spe / 4 HP
+- Earthquake
+- Iron Head
+- Rapid Spin
+- Swords Dance
+
+Togekiss @ Leftovers
+Ability: Serene Grace
+Bold Nature
+IVs: 31/31/31/31/31/31
+EVs: 252 HP / 252 Def / 4 SpD
+- Air Slash
+- Dazzling Gleam
+- Thunder Wave
+- Roost
+
+Ferrothorn @ Rocky Helmet
+Ability: Iron Barbs
+Relaxed Nature
+IVs: 31/31/31/31/31/0
+EVs: 252 HP / 88 Def / 168 SpD
+- Gyro Ball
+- Leech Seed
+- Power Whip
+- Protect
+
+Rotom-Wash @ Choice Specs
+Ability: Levitate
+Modest Nature
+IVs: 31/31/31/31/31/31
+EVs: 252 HP / 252 SpA / 4 Spe
+- Hydro Pump
+- Volt Switch
+- Thunderbolt
+- Trick
+
+Mimikyu @ Life Orb
+Ability: Disguise
+Jolly Nature
+IVs: 31/31/31/31/31/31
+EVs: 252 Atk / 252 Spe / 4 HP
+- Swords Dance
+- Play Rough
+- Shadow Claw
+- Trick Room
