@@ -1,0 +1,33 @@
+{
+    "meta": {
+        "event_id": -1,
+        "event_name": "",
+        "game": "Violet",
+        "raid_boost": 0,
+        "stage": 4,
+        "stars": 6
+    },
+    "seeds": [
+        {
+            "ability": "Sap Sipper",
+            "atk": 31,
+            "def": 31,
+            "drops": 8,
+            "ec": "66ED30DA",
+            "gender": "Male",
+            "height": 58,
+            "hp": 19,
+            "nature": "Naughty",
+            "pid": "7FDEAF4C",
+            "scale": 163,
+            "seed": "444FC67F",
+            "shiny": "Yes",
+            "spa": 31,
+            "spd": 31,
+            "spe": 31,
+            "species": "Farigiraf",
+            "tera_type": "Dark",
+            "weight": 69
+        }
+    ]
+}

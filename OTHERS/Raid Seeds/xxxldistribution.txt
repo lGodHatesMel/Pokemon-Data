@@ -1,0 +1,7 @@
+﻿Seed	Shiny	Stars	Species	Level	TeraType	EC	PID	HP	ATK	DEF	SPA	SPD	SPE	Ability	Nature	Gender	Height	Weight	Scale	Move1	Move2	Move3	Move4	GroupID	Calcs	
+00294D24	Star	5	Hydreigon	75	Poison	22C6B77F	2B2E8DEF	17	31	31	23	31	31	Levitate (1)	Gentle	♀	100	55	255	Dark Pulse	Scary Face	Dragon Pulse	Earth Power	1	2706724	
+059A8B63	Star	5	Scizor	75	Ice	2837F5BE	3C0F9ACE	31	14	31	31	17	31	Swarm (1)	Gentle	♂	80	130	255	Night Slash	Agility	Aerial Ace	X-Scissor	1	94014307	
+05ABEDFF	Star	5	Scizor	75	Steel	2849585A	043FA2FE	31	6	14	31	31	31	Swarm (1)	Calm	♂	75	151	255	Night Slash	Agility	Aerial Ace	X-Scissor	1	95153663	
+00294D24	Star	5	Blissey	75	Poison	22C6B77F	2B2E8DEF	17	31	31	23	31	31	Serene Grace (2)	Gentle	♀	100	55	255	Heal Pulse	Last Resort	Soft-Boiled	Seismic Toss	2	2706724	
+059A8B63	Star	5	Blissey	75	Ice	2837F5BE	3C0F9ACE	31	14	31	31	17	31	Natural Cure (1)	Gentle	♀	80	130	255	Heal Pulse	Last Resort	Soft-Boiled	Seismic Toss	2	94014307	
+05ABEDFF	Star	5	Blissey	75	Steel	2849585A	043FA2FE	31	6	14	31	31	31	Natural Cure (1)	Modest	♀	75	151	255	Heal Pulse	Last Resort	Soft-Boiled	Seismic Toss	2	95153663	
