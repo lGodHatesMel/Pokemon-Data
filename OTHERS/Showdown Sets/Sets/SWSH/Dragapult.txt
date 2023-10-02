@@ -1,9 +1,0 @@
-Dragapult @ Choice Band
-Ability: Infiltrator
-Jolly Nature
-IVs: 31/31/31/31/31/31
-EVs: 252 Atk / 252 Spe / 4 HP
-- Dragon Darts
-- Phantom Force
-- U-turn
-- Steel Wing
