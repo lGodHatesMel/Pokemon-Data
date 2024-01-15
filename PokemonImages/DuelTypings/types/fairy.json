@@ -1,0 +1,87 @@
+[
+    {
+        "Type": "Fairy",
+        "Weaknesses": ["Steel", "Poison"],
+        "SuperEffectiveAgainst": ["Fighting", "Dragon", "Dark"]
+    },    
+    {
+        "Type": "Fairy/Normal",
+        "Weaknesses": ["Poison", "Steel"],
+        "SuperEffectiveAgainst": ["Fighting", "Dragon", "Dark"]
+    },
+    {
+        "Type": "Fairy/Fire",
+        "Weaknesses": ["Water", "Rock", "Steel"],
+        "SuperEffectiveAgainst": ["Fighting", "Dragon", "Dark"]
+    },
+    {
+        "Type": "Fairy/Water",
+        "Weaknesses": ["Electric", "Grass"],
+        "SuperEffectiveAgainst": ["Fighting", "Dragon", "Dark"]
+    },
+    {
+        "Type": "Fairy/Electric",
+        "Weaknesses": ["Poison", "Ground"],
+        "SuperEffectiveAgainst": ["Fighting", "Dragon", "Dark"]
+    },
+    {
+        "Type": "Fairy/Grass",
+        "Weaknesses": ["Fire", "Ice", "Flying", "Steel"],
+        "SuperEffectiveAgainst": ["Fighting", "Dragon", "Dark"]
+    },
+    {
+        "Type": "Fairy/Ice",
+        "Weaknesses": ["Fire", "Steel", "Rock"],
+        "SuperEffectiveAgainst": ["Fighting", "Dragon", "Dark"]
+    },
+    {
+        "Type": "Fairy/Poison",
+        "Weaknesses": ["Ground", "Steel"],
+        "SuperEffectiveAgainst": ["Fighting", "Dragon", "Dark"]
+    },
+    {
+        "Type": "Fairy/Ground",
+        "Weaknesses": ["Water", "Ice", "Steel"],
+        "SuperEffectiveAgainst": ["Fighting", "Dragon", "Dark"]
+    },
+    {
+        "Type": "Fairy/Flying",
+        "Weaknesses": ["Electric", "Ice", "Rock", "Steel"],
+        "SuperEffectiveAgainst": ["Fighting", "Dragon", "Dark"]
+    },
+    {
+        "Type": "Fairy/Psychic",
+        "Weaknesses": ["Bug", "Ghost", "Steel"],
+        "SuperEffectiveAgainst": ["Fighting", "Dragon", "Dark"]
+    },
+    {
+        "Type": "Fairy/Bug",
+        "Weaknesses": ["Fire", "Flying", "Rock", "Steel"],
+        "SuperEffectiveAgainst": ["Fighting", "Dragon", "Dark"]
+    },
+    {
+        "Type": "Fairy/Rock",
+        "Weaknesses": ["Water", "Grass", "Steel"],
+        "SuperEffectiveAgainst": ["Fighting", "Dragon", "Dark"]
+    },
+    {
+        "Type": "Fairy/Ghost",
+        "Weaknesses": ["Ghost", "Steel"],
+        "SuperEffectiveAgainst": ["Fighting", "Dragon", "Dark"]
+    },
+    {
+        "Type": "Fairy/Dragon",
+        "Weaknesses": ["Ice", "Steel", "Fairy"],
+        "SuperEffectiveAgainst": ["Fighting", "Dragon", "Dark"]
+    },
+    {
+        "Type": "Fairy/Dark",
+        "Weaknesses": ["Fairy", "Bug"],
+        "SuperEffectiveAgainst": ["Fighting", "Dragon", "Dark"]
+    },
+    {
+        "Type": "Fairy/Steel",
+        "Weaknesses": ["Fire", "Ground"],
+        "SuperEffectiveAgainst": ["Fighting", "Dragon", "Dark"]
+    }
+]

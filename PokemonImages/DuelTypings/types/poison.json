@@ -1,0 +1,87 @@
+[
+    {
+        "Type": "Poison",
+        "Weaknesses": ["Ground"],
+        "SuperEffectiveAgainst": ["Grass", "Fairy"]
+    },    
+    {
+        "Type": "Poison/Normal",
+        "Weaknesses": ["Ground"],
+        "SuperEffectiveAgainst": ["Grass", "Fairy"]
+    },
+    {
+        "Type": "Poison/Fire",
+        "Weaknesses": ["Ground", "Water", "Rock"],
+        "SuperEffectiveAgainst": ["Grass", "Fairy"]
+    },
+    {
+        "Type": "Poison/Water",
+        "Weaknesses": ["Ground", "Electric"],
+        "SuperEffectiveAgainst": ["Grass", "Fairy"]
+    },
+    {
+        "Type": "Poison/Electric",
+        "Weaknesses": ["Ground"],
+        "SuperEffectiveAgainst": ["Grass", "Fairy"]
+    },
+    {
+        "Type": "Poison/Grass",
+        "Weaknesses": ["Fire", "Ice", "Flying", "Psychic"],
+        "SuperEffectiveAgainst": ["Ground", "Rock", "Water"]
+    },
+    {
+        "Type": "Poison/Ice",
+        "Weaknesses": ["Fire", "Rock", "Steel"],
+        "SuperEffectiveAgainst": ["Grass", "Fairy"]
+    },
+    {
+        "Type": "Poison/Ground",
+        "Weaknesses": ["Water", "Ice"],
+        "SuperEffectiveAgainst": ["Grass", "Fairy"]
+    },
+    {
+        "Type": "Poison/Flying",
+        "Weaknesses": ["Electric", "Ice", "Rock"],
+        "SuperEffectiveAgainst": ["Grass", "Fairy"]
+    },
+    {
+        "Type": "Poison/Psychic",
+        "Weaknesses": ["Ground", "Ghost", "Dark"],
+        "SuperEffectiveAgainst": ["Grass", "Fairy"]
+    },
+    {
+        "Type": "Poison/Bug",
+        "Weaknesses": ["Fire", "Flying", "Rock"],
+        "SuperEffectiveAgainst": ["Grass", "Fairy"]
+    },
+    {
+        "Type": "Poison/Rock",
+        "Weaknesses": ["Water", "Ground", "Psychic"],
+        "SuperEffectiveAgainst": ["Grass", "Fairy"]
+    },
+    {
+        "Type": "Poison/Ghost",
+        "Weaknesses": ["Ground", "Ghost", "Dark"],
+        "SuperEffectiveAgainst": ["Grass", "Fairy"]
+    },
+    {
+        "Type": "Poison/Dragon",
+        "Weaknesses": ["Ice", "Psychic", "Dragon", "Ground"],
+        "SuperEffectiveAgainst": ["Grass", "Fairy"]
+    },
+    {
+        "Type": "Poison/Dark",
+        "Weaknesses": ["Ground"],
+        "SuperEffectiveAgainst": ["Grass", "Fairy"]
+    },
+    {
+        "Type": "Poison/Steel",
+        "Weaknesses": ["Fire", "Ground"],
+        "SuperEffectiveAgainst": ["Grass", "Fairy"]
+    },
+    {
+        "Type": "Poison/Fairy",
+        "Weaknesses": ["Steel"],
+        "SuperEffectiveAgainst": ["Grass", "Fairy"]
+    }
+]

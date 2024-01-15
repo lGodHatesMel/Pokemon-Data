@@ -1,0 +1,87 @@
+[
+    {
+        "Type": "Ghost",
+        "Weaknesses": ["Ghost", "Dark"],
+        "SuperEffectiveAgainst": ["Psychic", "Ghost"]
+    },    
+    {
+        "Type": "Ghost/Normal",
+        "Weaknesses": ["Ghost", "Dark"],
+        "SuperEffectiveAgainst": ["Psychic", "Ghost"]
+    },
+    {
+        "Type": "Ghost/Fire",
+        "Weaknesses": ["Water", "Ghost", "Dark", "Rock"],
+        "SuperEffectiveAgainst": ["Psychic", "Ghost"]
+    },
+    {
+        "Type": "Ghost/Water",
+        "Weaknesses": ["Electric", "Ghost", "Dark", "Grass"],
+        "SuperEffectiveAgainst": ["Psychic", "Ghost"]
+    },
+    {
+        "Type": "Ghost/Electric",
+        "Weaknesses": ["Ground", "Ghost", "Dark"],
+        "SuperEffectiveAgainst": ["Psychic", "Ghost"]
+    },
+    {
+        "Type": "Ghost/Grass",
+        "Weaknesses": ["Fire", "Ice", "Flying", "Ghost", "Dark"],
+        "SuperEffectiveAgainst": ["Psychic", "Ghost"]
+    },
+    {
+        "Type": "Ghost/Ice",
+        "Weaknesses": ["Fire", "Steel", "Ghost", "Dark", "Rock"],
+        "SuperEffectiveAgainst": ["Psychic", "Ghost"]
+    },
+    {
+        "Type": "Ghost/Poison",
+        "Weaknesses": ["Ghost", "Dark", "Ground"],
+        "SuperEffectiveAgainst": ["Psychic", "Ghost"]
+    },
+    {
+        "Type": "Ghost/Ground",
+        "Weaknesses": ["Water", "Ice", "Ghost", "Dark", "Grass"],
+        "SuperEffectiveAgainst": ["Psychic", "Ghost"]
+    },
+    {
+        "Type": "Ghost/Flying",
+        "Weaknesses": ["Electric", "Ice", "Ghost", "Dark", "Rock"],
+        "SuperEffectiveAgainst": ["Psychic", "Ghost"]
+    },
+    {
+        "Type": "Ghost/Psychic",
+        "Weaknesses": ["Ghost", "Dark", "Bug"],
+        "SuperEffectiveAgainst": ["Psychic", "Ghost"]
+    },
+    {
+        "Type": "Ghost/Bug",
+        "Weaknesses": ["Fire", "Flying", "Ghost", "Dark", "Rock"],
+        "SuperEffectiveAgainst": ["Psychic", "Ghost"]
+    },
+    {
+        "Type": "Ghost/Rock",
+        "Weaknesses": ["Water", "Grass", "Ghost", "Dark", "Ground", "Steel"],
+        "SuperEffectiveAgainst": ["Psychic", "Ghost"]
+    },
+    {
+        "Type": "Ghost/Dragon",
+        "Weaknesses": ["Ice", "Ghost", "Dark", "Dragon", "Fairy"],
+        "SuperEffectiveAgainst": ["Psychic", "Ghost"]
+    },
+    {
+        "Type": "Ghost/Dark",
+        "Weaknesses": ["Fairy"],
+        "SuperEffectiveAgainst": ["Psychic", "Ghost"]
+    },
+    {
+        "Type": "Ghost/Steel",
+        "Weaknesses": ["Fire", "Ground"],
+        "SuperEffectiveAgainst": ["Psychic", "Ghost"]
+    },
+    {
+        "Type": "Ghost/Fairy",
+        "Weaknesses": ["Ghost", "Steel"],
+        "SuperEffectiveAgainst": ["Psychic", "Ghost"]
+    }
+]
