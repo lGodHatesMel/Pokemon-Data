@@ -1,12 +1,12 @@
 [
     {
         "Type": "Poison",
-        "Weaknesses": ["Ground"],
+        "Weaknesses": ["Ground", "Psychic"],
         "SuperEffectiveAgainst": ["Grass", "Fairy"]
     },    
     {
         "Type": "Poison/Normal",
-        "Weaknesses": ["Ground"],
+        "Weaknesses": ["Ground", "Psychic"],
         "SuperEffectiveAgainst": ["Grass", "Fairy"]
     },
     {
