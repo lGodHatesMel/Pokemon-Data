@@ -1,5 +1,10 @@
 [
     {
+        "Type": "Fighting",
+        "Weaknesses": ["Flying", "Psychic", "Fairy"],
+        "SuperEffectiveAgainst": ["Normal", "Rock", "Steel", "Ice", "Dark"]
+    },
+    {
         "Type": "Fighting/Normal",
         "Weaknesses": ["Flying", "Psychic", "Fairy", "Fighting"],
         "SuperEffectiveAgainst": ["Normal", "Rock", "Steel", "Ice", "Dark"]

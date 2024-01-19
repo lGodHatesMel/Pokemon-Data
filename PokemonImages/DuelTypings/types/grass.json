@@ -1,7 +1,7 @@
 [
     {
         "Type": "Grass",
-        "Weaknesses": ["Fire", "Ice", "Poison", "Flying", "Bug", "Fighting"],
+        "Weaknesses": ["Fire", "Ice", "Poison", "Flying", "Bug"],
         "SuperEffectiveAgainst": ["Water", "Ground", "Rock"]
     },    
     {

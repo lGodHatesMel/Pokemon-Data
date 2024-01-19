@@ -1,7 +1,7 @@
 [
     {
         "Type": "Electric",
-        "Weaknesses": ["Ground", "Fighting"],
+        "Weaknesses": ["Ground"],
         "SuperEffectiveAgainst": ["Water", "Flying"]
     },    
     {

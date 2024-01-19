@@ -1,7 +1,7 @@
 [
     {
         "Type": "Bug",
-        "Weaknesses": ["Fire", "Flying", "Rock", "Fighting"],
+        "Weaknesses": ["Fire", "Flying", "Rock"],
         "SuperEffectiveAgainst": ["Grass", "Psychic", "Dark"]
     },    
     {
